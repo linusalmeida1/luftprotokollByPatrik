@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.env
+*.log
+dist/
+build/
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.sqlite*
+
+.env.*
+*.jpeg
+.DS_Store
